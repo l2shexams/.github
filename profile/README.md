@@ -6,4 +6,4 @@
 - Давидян Матвей: [@lokisf8](https://t.me/lokisf8)
 - Федоров К.Е.: [@kefedorov](https://t.me/kefedorov)
 - Чернов В.Е.: [@user_is_none](https://t.me/user_is_none)
-- Антонов Д.С.: [@???](https://t.me/)
+- Антонов Д.С.: [@dan1l0s](https://t.me/dan1l0s)
