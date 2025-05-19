@@ -1,12 +1,9 @@
-## Hi there 👋
+## В этой организации находятся команды и репозитории для хакатонов и экзаменов по информатике Л2Ш.
 
-<!--
+Вы можете связаться с одним из админов этой организации в телеграм:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Муляр Никита: [@delikatny_pon](https://t.me/delikatny_pon)
+- Давидян Матвей: [@lokisf8](https://t.me/lokisf8)
+- Федоров К.Е.: [@kefedorov](https://t.me/kefedorov)
+- Чернов В.Е.: [@user_is_none](https://t.me/user_is_none)
+- Антонов Д.С.: [@delikatny_pon](#)
